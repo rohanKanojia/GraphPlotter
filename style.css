@@ -35,4 +35,26 @@ input[type=text] {
   -webkit-transition: all .4s ease;
   -moz-transition: all .4s ease;
   transition: all .4s ease;
-} 
+}
+
+li a, .button {
+  text-decoration: none;
+}
+
+li a:hover, .button:hover {
+  color:green;
+}
+
+.menu li, .button {
+  display      :inline;
+  padding      : 4px 6px;
+  border       :1px solid #777;
+  background   :#ddd;
+  color        :#d04;
+  margin-right :8px;
+  border-radius:5px;
+  -moz-box-shadow: 2px 2px 2px #888;
+  -webkit-box-shadow: 2px 2px 2px #888;
+  box-shadow       : 2px 2px 2px #888;
+}
+ 

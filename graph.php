@@ -53,6 +53,15 @@ _END;
     </script>
 
     </center>      
+  <hr>
+  <center>
+    <ul class='menu'>
+    <li><a href='Instructions.html' class='link'>Instructions</a></li>&nbsp;&nbsp;&nbsp;
+    <li><a href='Contact.html' class='link'>Contact Developer</a></li>&nbsp;&nbsp;&nbsp;
+    <li><a href='About.html' class='link'>About</a></li>
+    </ul>
+    <br>&copy;2015 All rights reserved
+  </center>
   </body>
 </html>
 _END;
